@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       fontFamily: {
         Poppins: ["Poppins", "sans-serif"],
+        Inter: ["Inter", "sans-serif"],
       },
       colors: {
         "castom_color": "#DAD8D8",
@@ -12,6 +13,7 @@ module.exports = {
         "castom_color3": "#D6D4D4E0",
         "castom_color4": "#808080",
         "castom_color_btn": "#B000004D",
+        "castom_color5": "#18191F",
       },
     },
     boxShadow: {
