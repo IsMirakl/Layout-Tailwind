@@ -14,10 +14,14 @@ module.exports = {
         "castom_color4": "#808080",
         "castom_color_btn": "#B000004D",
         "castom_color5": "#18191F",
+        "castom_color6": "#FFE87A",
+        "castom_color7": "#C4C4C4",
       },
     },
     boxShadow: {
       'custom': '0px 0px 64px 0px rgba(0, 0, 0, 0.5)',
+      'castom_shadow2': '0px 0px 4px 0px rgba(0, 0, 0, 0.25) inset',
+
     },
   },
   plugins: [],
