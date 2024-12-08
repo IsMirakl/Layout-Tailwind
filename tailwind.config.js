@@ -21,6 +21,7 @@ module.exports = {
     boxShadow: {
       'custom': '0px 0px 64px 0px rgba(0, 0, 0, 0.5)',
       'castom_shadow2': '0px 0px 4px 0px rgba(0, 0, 0, 0.25) inset',
+      'custom_shadow3': '0 10px 20px 0 rgba(41, 41, 42, 0.07)',
 
     },
   },
