@@ -17,6 +17,9 @@ module.exports = {
         "castom_color6": "#FFE87A",
         "castom_color7": "#C4C4C4",
         "custom_color8": "#969BAB",
+        "custom_color9": "#F7FAFE",
+        "custom_color10": "#2E2E2E",
+        "custom_color11": "#E6E6E6",
       },
     },
     boxShadow: {
