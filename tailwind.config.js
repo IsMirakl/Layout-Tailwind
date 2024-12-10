@@ -20,6 +20,7 @@ module.exports = {
         "custom_color9": "#F7FAFE",
         "custom_color10": "#2E2E2E",
         "custom_color11": "#E6E6E6",
+        "suctom_color12": "#E5E5E5"
       },
     },
     boxShadow: {
